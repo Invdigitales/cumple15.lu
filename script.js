@@ -83,7 +83,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3263.70794313738!2d-60.460772000000006!3d-35.114003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDA2JzUwLjQiUyA2MMKwMjcnMzguOCJX!5e0!3m2!1ses-419!2sar!4v1736426200477!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.9896900370272!2d-58.756845299999995!3d-34.427017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bc9fe6898122e1%3A0x6b7794be00174d67!2sEl%20Quinchito!5e0!3m2!1ses-419!2sar!4v1740001516125!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
